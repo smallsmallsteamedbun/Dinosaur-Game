@@ -1,0 +1,76 @@
+﻿  Dinosaur.cpp
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(18,2): warning C4091: “extern ”: 没有声明变量时忽略“Meteorite”的左侧
+  (编译源文件“Dinosaur.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(35,2): warning C4091: “extern ”: 没有声明变量时忽略“Plant”的左侧
+  (编译源文件“Dinosaur.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(40,2): warning C4091: “extern ”: 没有声明变量时忽略“ASH”的左侧
+  (编译源文件“Dinosaur.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(46,2): warning C4091: “extern ”: 没有声明变量时忽略“Button”的左侧
+  (编译源文件“Dinosaur.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.cpp(62,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.cpp(146,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.cpp(220,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Face.cpp
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(18,2): warning C4091: “extern ”: 没有声明变量时忽略“Meteorite”的左侧
+  (编译源文件“Face.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(35,2): warning C4091: “extern ”: 没有声明变量时忽略“Plant”的左侧
+  (编译源文件“Face.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(40,2): warning C4091: “extern ”: 没有声明变量时忽略“ASH”的左侧
+  (编译源文件“Face.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(46,2): warning C4091: “extern ”: 没有声明变量时忽略“Button”的左侧
+  (编译源文件“Face.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Face.cpp(74,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Face.cpp(237,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Face.cpp(317,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Face.cpp(323,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Game.cpp
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(18,2): warning C4091: “extern ”: 没有声明变量时忽略“Meteorite”的左侧
+  (编译源文件“Game.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(35,2): warning C4091: “extern ”: 没有声明变量时忽略“Plant”的左侧
+  (编译源文件“Game.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(40,2): warning C4091: “extern ”: 没有声明变量时忽略“ASH”的左侧
+  (编译源文件“Game.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(46,2): warning C4091: “extern ”: 没有声明变量时忽略“Button”的左侧
+  (编译源文件“Game.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Game.cpp(36,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(18,2): warning C4091: “extern ”: 没有声明变量时忽略“Meteorite”的左侧
+  (编译源文件“main.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(35,2): warning C4091: “extern ”: 没有声明变量时忽略“Plant”的左侧
+  (编译源文件“main.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(40,2): warning C4091: “extern ”: 没有声明变量时忽略“ASH”的左侧
+  (编译源文件“main.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(46,2): warning C4091: “extern ”: 没有声明变量时忽略“Button”的左侧
+  (编译源文件“main.cpp”)
+  
+  Obstacle.cpp
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(18,2): warning C4091: “extern ”: 没有声明变量时忽略“Meteorite”的左侧
+  (编译源文件“Obstacle.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.h(35,2): warning C4091: “extern ”: 没有声明变量时忽略“Plant”的左侧
+  (编译源文件“Obstacle.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(40,2): warning C4091: “extern ”: 没有声明变量时忽略“ASH”的左侧
+  (编译源文件“Obstacle.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Dinosaur.h(46,2): warning C4091: “extern ”: 没有声明变量时忽略“Button”的左侧
+  (编译源文件“Obstacle.cpp”)
+  
+D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\Obstacle.cpp(91,49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  Chrome Dino Game.vcxproj -> D:\AHU\学习 科目\算法程序设计\Chrome Dino Game\x64\Debug\Chrome Dino Game.exe
